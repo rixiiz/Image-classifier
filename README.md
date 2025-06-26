@@ -9,7 +9,7 @@ An AI model that uses OpenAI can classifier uploaded images
 
 ## Requirements
 - Python 3.8+
-- `openai`, `numpy`, `streamlit`, `tensorflow`, `PIL`
+- `openai`, `numpy`, `streamlit`, `tensorflow`, `PIL`, `cv2`
 - `.env` with OpenAI API key
 - `uv` package
 
